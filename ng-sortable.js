@@ -1,5 +1,5 @@
 /*
- angular1-sortable v1.0
+ angular1-sortable v1.0.0
  The MIT License (MIT)
 
  Copyright (c) 2014 Liem Huynh
